@@ -1,3 +1,19 @@
+# MAVEN
+target/
+
+# Eclipse 
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+build.properties
+**/.settings
+**/.project
+**/.settings/
+.classpath
+.loadpath
 *.class
 
 # Mobile Tools for Java (J2ME)
